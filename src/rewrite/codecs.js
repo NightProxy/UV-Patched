@@ -47,7 +47,7 @@ export const base64 = {
 		if (!str) return str;
 		str = str.toString();
 
-		return btoa(encodeURIComponent(str));
+		return encodeURIComponent(btoa(str));
 	},
 	decode(str) {
 		if (!str) return str;

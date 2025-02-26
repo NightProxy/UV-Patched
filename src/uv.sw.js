@@ -447,7 +447,7 @@ function errorTemplate(trace, fetchedURL) {
         <ul>
         <li>Restarting your server</li>
         <li>Updating Ultraviolet</li>
-        <li>Troubleshooting the error on the <a href="https://github.com/titaniumnetwork-dev/Ultraviolet" target="_blank">GitHub repository</a></li>
+        <li>Troubleshooting the error on the <a href="https://github.com/NightProxy/UV-Patched" target="_blank">GitHub repository</a></li>
         </ul>
         <button id="reload">Reload</button>
         <hr />
